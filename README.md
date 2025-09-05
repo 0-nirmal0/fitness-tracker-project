@@ -13,3 +13,8 @@ This project analyzes fictional fitness tracker data using Python (Pandas, Matpl
 - Step count and calorie burn analysis
 - User activity trends
 - Visualizations with Matplotlib
+
+## 🔧 Requirements
+- pandas
+- matplotlib
+- numpy
