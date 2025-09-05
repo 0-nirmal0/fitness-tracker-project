@@ -21,7 +21,7 @@ This project analyzes fictional fitness tracker data using Python (Pandas, Matpl
 ```bash
    git clone https://github.com/<your-username>/fitness-tracker-project-v2.git
    cd fitness-tracker-project-v2
-
+```   
 **2. Install dependencies:**
 pip install -r requirements.txt
 
