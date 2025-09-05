@@ -15,7 +15,6 @@ This project analyzes fictional fitness tracker data using Python (Pandas, Matpl
 ## 🔧 Requirements
 - pandas
 - matplotlib
-- numpy
 
 ## 🚀 How to Run
 ** 1. Clone this repository: **
