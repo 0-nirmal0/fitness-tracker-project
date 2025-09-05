@@ -23,9 +23,11 @@ This project analyzes fictional fitness tracker data using Python (Pandas, Matpl
    cd fitness-tracker-project
 ```   
 **2. Install dependencies:**
+
 pip install -r requirements.txt
 
 **3. Open Jupyter Notebook:**
+
 jupyter notebook notebooks/fitness_tracker_project.ipynb
 
 
