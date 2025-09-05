@@ -8,7 +8,6 @@ This project analyzes fictional fitness tracker data using Python (Pandas, Matpl
 - `README.md` → project documentation
 
 ## 🚀 Features
-- Synthetic dataset generation
 - Step count and calorie burn analysis
 - User activity trends
 - Visualizations with Matplotlib
@@ -17,3 +16,17 @@ This project analyzes fictional fitness tracker data using Python (Pandas, Matpl
 - pandas
 - matplotlib
 - numpy
+
+## 🚀 How to Run
+** 1. Clone this repository: **
+```bash
+   git clone https://github.com/<your-username>/fitness-tracker-project-v2.git
+   cd fitness-tracker-project-v2
+---
+** 2. Install dependencies: **
+pip install -r requirements.txt
+
+** 3. Open Jupyter Notebook: **
+jupyter notebook notebooks/fitness_tracker_project.ipynb
+
+
